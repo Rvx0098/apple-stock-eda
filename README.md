@@ -210,7 +210,7 @@ apple-stock-eda/
 Aspiring Data Analyst passionate about transforming raw data into actionable insights through analytics, visualization, and storytelling.
 
 - GitHub: https://github.com/Rvx0098
-- LinkedIn: https://linkedin.com/rishitvermaa
+- LinkedIn: https://www.linkedin.com/in/rishitvermaa
 
 ---
 ⭐ If you found this project useful, consider giving it a star.
